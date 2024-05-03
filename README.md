@@ -15,5 +15,7 @@ cd BDTT-FinalProject
 - Rename secrets1.template.py to secrets1.py
 
 **Run the Application as Jupiter Notebook using Python**
+
 Go to final_project.ipynb
+
 Select "Run All" for the notebook.
